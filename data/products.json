@@ -1,0 +1,257 @@
+[
+  {
+    "id": "prod-001",
+    "slug": "macbook-pro-14",
+    "name": "MacBook Pro 14인치 M3",
+    "description": "강력한 성능의 M3 칩을 탑재한 14인치 MacBook Pro. 전문가를 위한 최고의 노트북.",
+    "price": 2390000,
+    "currency": "KRW",
+    "brand": "Apple",
+    "category": "전자기기",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1592919933511-ea9d487c85e4?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1592919933511-ea9d487c85e4?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.8,
+    "reviewCount": 342
+  },
+  {
+    "id": "prod-002",
+    "slug": "galaxy-s24-ultra",
+    "name": "Galaxy S24 Ultra",
+    "description": "혁신적인 AI 기능과 200MP 카메라를 탑재한 삼성의 플래그십 스마트폰.",
+    "price": 1598000,
+    "currency": "KRW",
+    "brand": "Samsung",
+    "category": "전자기기",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1705585174953-9b2aa8afc174?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1705585174953-9b2aa8afc174?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.7,
+    "reviewCount": 521
+  },
+  {
+    "id": "prod-003",
+    "slug": "airpods-pro-2",
+    "name": "AirPods Pro 2세대",
+    "description": "뛰어난 노이즈 캔슬링과 공간 음향을 지원하는 무선 이어폰.",
+    "price": 359000,
+    "currency": "KRW",
+    "brand": "Apple",
+    "category": "전자기기",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1606741965326-cb990ae01bb2?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1606741965326-cb990ae01bb2?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.6,
+    "reviewCount": 892
+  },
+  {
+    "id": "prod-004",
+    "slug": "nike-air-max-90",
+    "name": "Nike Air Max 90",
+    "description": "클래식한 디자인의 러닝화. 편안함과 스타일을 동시에.",
+    "price": 129000,
+    "currency": "KRW",
+    "brand": "Nike",
+    "category": "신발",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.5,
+    "reviewCount": 1234
+  },
+  {
+    "id": "prod-005",
+    "slug": "adidas-ultraboost",
+    "name": "Adidas Ultraboost 23",
+    "description": "최고의 쿠셔닝과 에너지 리턴을 제공하는 프리미엄 러닝화.",
+    "price": 259000,
+    "currency": "KRW",
+    "brand": "Adidas",
+    "category": "신발",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.7,
+    "reviewCount": 678
+  },
+  {
+    "id": "prod-006",
+    "slug": "north-face-jacket",
+    "name": "The North Face 다운 재킷",
+    "description": "극한의 추위에서도 따뜻함을 유지하는 프리미엄 다운 재킷.",
+    "price": 389000,
+    "currency": "KRW",
+    "brand": "The North Face",
+    "category": "의류",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1425100599170-85ec4f00a6ee?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1425100599170-85ec4f00a6ee?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.8,
+    "reviewCount": 456
+  },
+  {
+    "id": "prod-007",
+    "slug": "uniqlo-heattech",
+    "name": "유니클로 히트텍 이너웨어",
+    "description": "발열 기능으로 겨울철 필수 아이템. 가볍고 따뜻한 이너웨어.",
+    "price": 29900,
+    "currency": "KRW",
+    "brand": "Uniqlo",
+    "category": "의류",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.4,
+    "reviewCount": 2341
+  },
+  {
+    "id": "prod-008",
+    "slug": "zara-wool-coat",
+    "name": "Zara 울 코트",
+    "description": "클래식한 디자인의 울 코트. 겨울 정장 스타일에 완벽.",
+    "price": 159000,
+    "currency": "KRW",
+    "brand": "Zara",
+    "category": "의류",
+    "inStock": false,
+    "images": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.3,
+    "reviewCount": 234
+  },
+  {
+    "id": "prod-009",
+    "slug": "levi-501-jeans",
+    "name": "Levi's 501 오리지널 청바지",
+    "description": "영원한 클래식 스트레이트 핏 청바지. 어떤 스타일과도 매치.",
+    "price": 128000,
+    "currency": "KRW",
+    "brand": "Levi's",
+    "category": "의류",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.6,
+    "reviewCount": 1567
+  },
+  {
+    "id": "prod-010",
+    "slug": "louis-vuitton-bag",
+    "name": "Louis Vuitton 스피디 백",
+    "description": "아이코닉한 디자인의 핸드백. 시대를 초월한 명품.",
+    "price": 2180000,
+    "currency": "KRW",
+    "brand": "Louis Vuitton",
+    "category": "가방",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.9,
+    "reviewCount": 123
+  },
+  {
+    "id": "prod-011",
+    "slug": "herschel-backpack",
+    "name": "Herschel 백팩",
+    "description": "데일리 사용에 완벽한 심플한 디자인의 백팩.",
+    "price": 89000,
+    "currency": "KRW",
+    "brand": "Herschel",
+    "category": "가방",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.5,
+    "reviewCount": 789
+  },
+  {
+    "id": "prod-012",
+    "slug": "dyson-v15",
+    "name": "Dyson V15 무선청소기",
+    "description": "레이저로 먼지를 감지하는 최신 무선청소기. 강력한 흡입력.",
+    "price": 1090000,
+    "currency": "KRW",
+    "brand": "Dyson",
+    "category": "생활용품",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1569698134101-f15cde5cd66c?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1569698134101-f15cde5cd66c?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.7,
+    "reviewCount": 456
+  },
+  {
+    "id": "prod-013",
+    "slug": "philips-air-fryer",
+    "name": "Philips 에어프라이어",
+    "description": "건강하게 튀김 요리를 즐길 수 있는 에어프라이어.",
+    "price": 198000,
+    "currency": "KRW",
+    "brand": "Philips",
+    "category": "생활용품",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.6,
+    "reviewCount": 1234
+  },
+  {
+    "id": "prod-014",
+    "slug": "balmuda-toaster",
+    "name": "Balmuda 더 토스터",
+    "description": "최고의 식감을 구현하는 프리미엄 토스터. 빵 애호가 필수템.",
+    "price": 289000,
+    "currency": "KRW",
+    "brand": "Balmuda",
+    "category": "생활용품",
+    "inStock": false,
+    "images": [
+      "https://images.unsplash.com/photo-1613221699807-4940ba9b83f4?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1613221699807-4940ba9b83f4?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.8,
+    "reviewCount": 345
+  },
+  {
+    "id": "prod-015",
+    "slug": "ikea-desk-lamp",
+    "name": "IKEA 데스크 램프",
+    "description": "심플하고 실용적인 LED 데스크 램프. 집중력을 높이는 조명.",
+    "price": 19900,
+    "currency": "KRW",
+    "brand": "IKEA",
+    "category": "생활용품",
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1621177555452-bedbe4c28879?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1621177555452-bedbe4c28879?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.3,
+    "reviewCount": 891
+  }
+]
